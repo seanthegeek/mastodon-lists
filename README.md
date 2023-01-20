@@ -50,8 +50,8 @@ file into a list called `US Politics`, use the following command.
 > ./listmanager.py import list "US Politics.csv" "US Politics"
 
 If the destination list does not exist it will be created automatically. In
-Mastodon, accounts you are following can be added to a list, so the script will
-attempt to folow each account before adding it to a list. An account cannot be
+Mastodon, only accounts you are following can be added to a list, so the script will
+attempt to follow each account before adding it to a list. An account cannot be
 added to a list if a follow request is pending.
 
 [mastodon-listmanager]: https://github.com/seanthegeek/mastodon-listmanager
