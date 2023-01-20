@@ -17,7 +17,7 @@ Each CSV file in this repository is its own list, which was exported using
 | STEM                | Scientists, technologists, developers, and such      |
 | US Politics         | US politicians, pundits, and interest groups         |
 
-Accounts may be in multiple lists. For example, many on the accounts in the
+Accounts may be in multiple lists. For example, many of the accounts in the
 NatAec list are also in the Geopolitics list.
 
 ## Importing lists
